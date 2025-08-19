@@ -38,4 +38,4 @@ Multi-camera person re-identification and anomaly detection for real-time securi
 
 ---
 
-📫 Reach me: [LinkedIn]((https://www.linkedin.com/in/ashwathkarunakaram/))
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ashwathkarunakaram/)
