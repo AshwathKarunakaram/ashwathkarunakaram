@@ -19,7 +19,7 @@
 *Gemma-3N, RAG, FAISS, Next.js, Flask, Ollama*  
 Offline multimodal tutor for text, audio, and images. Built in 4 days for Google Gemma 3n Hackathon.  
 
-### [Synopta CCTV AI] 
+### [Synopta CCTV AI](https://synopta.ai/)
 *Computer Vision, Re-ID, Anomaly Detection*  
 Multi-camera person re-identification and anomaly detection for real-time security.  
 
