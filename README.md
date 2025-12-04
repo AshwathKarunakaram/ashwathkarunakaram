@@ -25,12 +25,6 @@ Multi-camera person re-identification and anomaly detection for real-time securi
 
 ---
 
-## 📊 GitHub Stats
-![Ashwath's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwathkarunakaram&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwathkarunakaram&layout=compact&theme=tokyonight)  
-
----
-
 ## 🚀 What I’m Working On
 - Finetuning **Gemma 3n** with Unsloth for multimodal inference  
 - Expanding **Synopta** into a production-scale security platform  
